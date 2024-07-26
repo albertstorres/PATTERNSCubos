@@ -38,6 +38,5 @@ public class StreamTeste {
             return usuario.getNome() + " " + usuario.getSobrenome();
         });
         System.out.println(res.toList());
-
     }
 }
