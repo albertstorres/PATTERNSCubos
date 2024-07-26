@@ -1,4 +1,2 @@
-Olá!
-Albert Sevy
-
-Cubos Academy
+Usando .append() consigo adicionar ao arquivo.Usando .append() consigo adicionar ao arquivo.Usando .append() consigo adicionar ao arquivo./nUsando .append() consigo adicionar ao arquivo.
+Usando .append() consigo adicionar ao arquivo.
